@@ -13,7 +13,7 @@ This repository contains a simple **Cinema Ticket Booking System** built using t
 - **Frontend:** Implemented using the Tkinter library for a clean and interactive GUI.
 
 ## Technologies Used
-- **Python** (3.x)
+- **Python**
 - **Tkinter** (Python's standard GUI toolkit)
 
 ## How to Run the Project
@@ -21,9 +21,9 @@ This repository contains a simple **Cinema Ticket Booking System** built using t
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/your-username/cinema-ticket-booking-system.git
-   cd cinema-ticket-booking-system
+   cd Cinema-Ticket-Booking-System
    ```
-2. Ensure you have Python installed (version 3.x).
+2. Ensure you have Python installed.
 
 3. Run the main Python file to start the application:
    ```bash
